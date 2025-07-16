@@ -1,0 +1,10 @@
+/data/
+*.csv
+*.parquet
+
+# Ignore notebook metadata
+.ipynb_checpoints/
+
+# Python cache
+__pycache__/
+*.pyc
